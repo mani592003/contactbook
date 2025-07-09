@@ -36,5 +36,4 @@ This app allows you to manage your personal or professional contacts — includi
 
 ---
 
-## 📂 Project Structure
 
